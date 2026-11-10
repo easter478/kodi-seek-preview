@@ -1,0 +1,7 @@
+dist/
+service.seekpreview/bin/*/
+__pycache__/
+*.pyc
+.claude/
+
+NOTES.md

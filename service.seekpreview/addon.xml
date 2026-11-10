@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="service.seekpreview" name="Seek Preview" version="1.2.0" provider-name="easter478">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.service" library="service.py"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">A picture of where you are skipping to, in any skin</summary>
+    <description lang="en_GB">While you skip forward or back in a video, a small frame of the spot you are jumping to shows above the seek bar, like on YouTube or Netflix. It works in every skin because the add-on draws the box itself, and it needs nothing else installed: ffmpeg is included. Local files, network shares (SMB, NFS) and http streams are supported.</description>
+    <disclaimer lang="en_GB">Decodes video frames in the background while a film plays. Includes ffmpeg (GPL).</disclaimer>
+    <platform>all</platform>
+    <license>GPL-3.0-or-later</license>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>

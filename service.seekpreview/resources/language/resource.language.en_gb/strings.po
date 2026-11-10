@@ -1,0 +1,226 @@
+# Kodi Media Center language file
+# Addon Name: Seek Preview
+# Addon id: service.seekpreview
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32000"
+msgid "General"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Show a preview while seeking"
+msgstr ""
+
+msgctxt "#32002"
+msgid "One frame every"
+msgstr ""
+
+msgctxt "#32003"
+msgid "Make frames ahead of time"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Keep frames in memory only"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Hide subtitles while the preview shows"
+msgstr ""
+
+msgctxt "#32010"
+msgid "Look"
+msgstr ""
+
+msgctxt "#32011"
+msgid "Size"
+msgstr ""
+
+msgctxt "#32012"
+msgid "Position"
+msgstr ""
+
+msgctxt "#32013"
+msgid "Custom: at the top of the screen"
+msgstr ""
+
+msgctxt "#32014"
+msgid "Custom: distance from the bottom (or top)"
+msgstr ""
+
+msgctxt "#32015"
+msgid "Show the time under the frame"
+msgstr ""
+
+msgctxt "#32016"
+msgid "Fit to the skin's seek bar"
+msgstr ""
+
+msgctxt "#32017"
+msgid "Custom: distance from the sides"
+msgstr ""
+
+msgctxt "#32018"
+msgid "Move up (+) or down (-)"
+msgstr ""
+
+msgctxt "#32051"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "#32052"
+msgid "Custom"
+msgstr ""
+
+msgctxt "#32053"
+msgid "Aeon Nox: SiLVO"
+msgstr ""
+
+msgctxt "#32060"
+msgid "Kodi's skipping"
+msgstr ""
+
+msgctxt "#32061"
+msgid "Kodi's skip settings"
+msgstr ""
+
+msgctxt "#32062"
+msgid "Custom: skip delay (milliseconds)"
+msgstr ""
+
+msgctxt "#32063"
+msgid "Custom: skip steps"
+msgstr ""
+
+msgctxt "#32071"
+msgid "Leave as they are"
+msgstr ""
+
+msgctxt "#32072"
+msgid "Suggested for the preview"
+msgstr ""
+
+msgctxt "#32073"
+msgid "Custom"
+msgstr ""
+
+msgctxt "#32081"
+msgid "10 seconds each press"
+msgstr ""
+
+msgctxt "#32082"
+msgid "30 seconds each press"
+msgstr ""
+
+msgctxt "#32083"
+msgid "10 sec, 30 sec, 60 sec"
+msgstr ""
+
+msgctxt "#32084"
+msgid "Kodi's default (10 sec up to 10 min)"
+msgstr ""
+
+msgctxt "#32161"
+msgid "These are Kodi's own settings under Settings > Player > Videos. Suggested: a skip delay of 1000 ms and 10 seconds each press, so the picture walks evenly and Kodi jumps once, when you stop pressing. Custom: use the two values below. Leave as they are: the add-on changes nothing, and puts back what it found if it changed them before."
+msgstr ""
+
+msgctxt "#32162"
+msgid "How long Kodi waits after your last press before it jumps. The preview shows during this wait. Shorter jumps sooner; too short and Kodi jumps between two presses, which makes the video stutter. Kodi's default is 750."
+msgstr ""
+
+msgctxt "#32163"
+msgid "With one step, every press adds the same amount (10, 20, 30 seconds and so on). With several steps, every press moves to the next bigger step."
+msgstr ""
+
+msgctxt "#32021"
+msgid "5 seconds"
+msgstr ""
+
+msgctxt "#32022"
+msgid "10 seconds"
+msgstr ""
+
+msgctxt "#32023"
+msgid "15 seconds"
+msgstr ""
+
+msgctxt "#32024"
+msgid "30 seconds"
+msgstr ""
+
+msgctxt "#32031"
+msgid "Small"
+msgstr ""
+
+msgctxt "#32032"
+msgid "Medium"
+msgstr ""
+
+msgctxt "#32033"
+msgid "Large"
+msgstr ""
+
+msgctxt "#32041"
+msgid "Follows the seek position"
+msgstr ""
+
+msgctxt "#32042"
+msgid "Centre"
+msgstr ""
+
+msgctxt "#32043"
+msgid "Left"
+msgstr ""
+
+msgctxt "#32044"
+msgid "Right"
+msgstr ""
+
+msgctxt "#32101"
+msgid "Turn the preview off without disabling the add-on."
+msgstr ""
+
+msgctxt "#32102"
+msgid "Smaller steps give a closer picture and more frames to make."
+msgstr ""
+
+msgctxt "#32103"
+msgid "About 20 seconds after a film starts, frames around the current position are made in the background, so the preview is instant. Off: a frame is made only when you seek to it."
+msgstr ""
+
+msgctxt "#32104"
+msgid "On Linux boxes the frames stay in /tmp (memory) and nothing is written to the storage. Off: the frames of the last 3 films are kept in Kodi's temp folder."
+msgstr ""
+
+msgctxt "#32105"
+msgid "Subtitles come back as soon as the preview closes."
+msgstr ""
+
+msgctxt "#32112"
+msgid "Where the box sits from left to right."
+msgstr ""
+
+msgctxt "#32113"
+msgid "For skins that show their seek bar at the top."
+msgstr ""
+
+msgctxt "#32114"
+msgid "Used when the fit is Custom, or Automatic on a skin with no fit. How far the box sits from the bottom (or top) edge, out of 720. Raise it if the box covers the skin's seek bar."
+msgstr ""
+
+msgctxt "#32116"
+msgid "Automatic: on a skin the add-on knows (Aeon Nox: SiLVO) the box sits right on top of the skin's seek bar, over the spot you are skipping to; on other skins the Custom values below are used. Custom: always use the values below."
+msgstr ""
+
+msgctxt "#32117"
+msgid "Used when the fit is Custom, or Automatic on a skin with no fit. How close the box goes to the left and right sides, out of 1280."
+msgstr ""
+
+msgctxt "#32118"
+msgid "Fine adjustment, out of 720, on top of the fit or the Custom values. 0 leaves the box where the fit puts it."
+msgstr ""
